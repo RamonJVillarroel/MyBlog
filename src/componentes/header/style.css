@@ -1,0 +1,14 @@
+.menu{
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+
+    text-decoration: none;
+}
+.letramenu{
+    font-size: 30px;
+    font-family: cursive;   
+}
+.letranav{
+    text-decoration: none;
+}
